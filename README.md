@@ -11,7 +11,7 @@
 **OracleBloombergTech** is the core implementation of the **Stargate Hub** architecture. This engine synthesizes high-frequency market data into actionable intelligence, specifically designed to monitor sovereign cloud deployments, AI-infrastructure growth, and global 18-month "Harvest" targets.
 
 ### 🚀 Key Features
-- **Integrated Telemetry**: Seamless ingestion of S&P 500 InfoTech and Bloomberg revenue data into Oracle 26ai structures.
+- **Integrated Telemetry**: Seamless ingestion of S&P 500 InfoTech & US Banks and Bloomberg revenue data into Oracle 26ai structures.
 - **Sovereign Cloud Mapping**: Specialized monitoring for GPU cluster expansion in the **Brazil (Rio/SP)** region.
 - **Agentic AI Moat**: Tracking of Bloomberg ASKB yield and institutional subscription lock-in.
 
